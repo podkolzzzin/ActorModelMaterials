@@ -25,3 +25,6 @@ Report: Concurrency &amp; Distributed Computing: Make It Simple
  - [akka-bootcamp](https://github.com/petabridge/akka-bootcamp)
 	 - [Samples](https://github.com/petabridge/akkadotnet-code-samples)
  - [Akka Streams для простых смертных](https://habr.com/company/jugru/blog/418639/)
+# Presentations
+- [Concurrency и Распределенные вычисления: Простой путь](http://prezi.com/551rforeqqem/?utm_campaign=share&utm_medium=copy)
+- [Многопоточность в .Net: мифы и типичные ошибки](http://prezi.com/davudyp6m-lc/?utm_campaign=share&utm_medium=copy&rc=ex0share)
