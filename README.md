@@ -1,9 +1,12 @@
+
 # ActorModelMaterials
 A list of materials for fullstack.net.ua conference. 
 Report: Concurrency &amp; Distributed Computing: Make It Simple
-
-Моя жизнь с актерами: опыт внедрения модели актеров на F# — Вагиф Абилов
-
+# Frameworks
+- [Orleans](https://dotnet.github.io/orleans/)
+- [Akka.net](https://getakka.net/)
+- [Proto.Actor](http://proto.actor/)
+# Материалы
  - [Моя жизнь с актерами: опыт внедрения модели актеров на F#](https://youtu.be/wRxO5ky7S8g) — Вагиф Абилов
 	 - [Модель актеров за 3 минуты](https://youtu.be/wRxO5ky7S8g?t=11m23s)
 	 - [Actors vs OOP](https://youtu.be/wRxO5ky7S8g?t=14m)
