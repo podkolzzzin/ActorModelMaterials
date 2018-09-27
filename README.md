@@ -18,7 +18,7 @@ Report: Concurrency &amp; Distributed Computing: Make It Simple
 	 - [Pool/Group](https://youtu.be/fwWA6Bugg_c?t=23m42s)
  - [Назад в будущее: построение эффективных облачных сервисов с помощью Orleans](https://youtu.be/OsysS9a53dk) — Сергей Быков
  - [Actor-based Concurrency with F# and Akka.NET](https://youtu.be/LLG8_0XtD4o) — # Аким Бойко
- - [Akka.Net website](petabridge.com)
+ - [Akka.Net website](https://petabridge.com/)
 	 - [Akka.NET: What is an Actor?](https://petabridge.com/blog/akkadotnet-what-is-an-actor/)
 	 - [Async IO and Actors](https://petabridge.com/blog/akkadotnet-async-actors-using-pipeto/)
 	 - [Meet the Top Akka.NET Design Patterns](https://petabridge.com/blog/top-akkadotnet-design-patterns/)
